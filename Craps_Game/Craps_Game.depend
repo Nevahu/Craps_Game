@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1658687125 source:d:\masaüstü\k o d\codeblocks\Ödevler\craps_game\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1658686985 source:d:\masaüstü\k o d\codeblocks\Ödevler\craps_game\craps_game.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	<time.h>
+
